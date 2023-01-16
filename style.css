@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background-color: aquamarine;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+h5 {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+form {
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+form label {
+    font-size: 20px;
+}
+
+form input {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 15px;
+    border: 2px solid red;
+}
+
+form button {
+    border-radius: 10px;
+    padding: 6px;
+    margin: 2px;
+    width: 100px;
+    border: 2px solid red;
+}
+
+p {
+   text-align: center;
+
+}
